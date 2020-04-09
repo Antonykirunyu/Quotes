@@ -15,11 +15,11 @@ Run `ng generate component component-name` to generate a new component. You can 
 https://antonykirunyu.github.io/quote/
 
 ## Technologies used
- *Typescript
- *Javascript
- *Html
- *css
- *Bootstrap
+ * Typescript
+ * Javascript
+ * Html
+ * Css
+ * Bootstrap
  
 ## Build
 
