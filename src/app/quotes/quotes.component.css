@@ -1,9 +1,3 @@
-body{
-    background-color:transparent;
-}
-.btn btn-info form-btn{
-    text-align: center;
-}
 .author {
     font-style: italic;
     font-weight: bold;
@@ -21,7 +15,7 @@ body{
   }
   .action{
     text-align: center;
-    color: #e61212;
+    color: #c5b0b0;
     font-size: 20px;
   }
   form{
@@ -41,31 +35,28 @@ body{
   .cancel-form{
     text-align: right;
   }
-  .form-btn{
-    margin-left: auto;
-    margin-right: auto;
-  }
+  
   
   .card:nth-child(6n-5) {
-    background-color: burlywood;
+    background-color: rgb(238, 147, 29);
   }
   .card:nth-child(6n-4) {
-    background-color: green;
+    background-color: rgb(3, 48, 3);
   }
   .card:nth-child(6n-3) {
-    background-color: mediumaquamarine;
+    background-color: rgb(5, 27, 68);
   }
   .card:nth-child(6n-2) {
     background-color: blue;
   }
   .card:nth-child(6n-1) {
-    background-color: lightcoral;
+    background-color: rgb(224, 8, 8);
   }
   .card:nth-child(6n+0) {
-    background-color: yellowgreen;
+    background-color: rgb(7, 85, 78);
   }
   .card-footer{
-    background-color: #eeeeee;
+    background-color: #b0abb4;
   }
   .fa-quote-left{
     float: left;
