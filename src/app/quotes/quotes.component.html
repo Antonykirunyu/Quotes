@@ -1,7 +1,7 @@
 <div class="container-fluid">
     <div class="row">
       <button (click)="onNew()" class="btn btn-info form-btn" id="form-btn">
-        Post a new quote
+        Post a new meme
       </button>
   
       <form (ngSubmit)="onSave()" *ngIf="showNew" id="quote-form">
@@ -10,7 +10,7 @@
         ></span>
   
         <div class="form-group">
-          <label for="text-input">Meme</label>
+          <label for="text-input">Memey</label>
           <textarea
             class="form-control"
             [(ngModel)]="quoteModel.text"
